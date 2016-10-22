@@ -11,4 +11,4 @@
 
 %% API
 -export([hello/0]).
-hello()->io:format("Hello World!").
+hello()->io:format("Hello, World!").
