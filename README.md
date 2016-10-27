@@ -1,2 +1,2 @@
 # erlang-samples
-Sample code to learn erlang
+Code from exercise booklet
